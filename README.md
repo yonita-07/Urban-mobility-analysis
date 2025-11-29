@@ -16,14 +16,14 @@
 
 # Project tree
 
-Urban_Mobility_Analysis/
- * [data](Urban_Mobility_Analysis/data)
-   * [cleaned_train_delays_full.csv](Urban_Mobility_Analysis/data/cleaned_train_delays_full.csv)
- * [notebooks](Urban_Mobility_Analysis/notebooks)
-   * [urban-mobility-analysis-code.ipynb](Urban_Mobility_Analysis/notebooks/urban-mobility-analysis-code.ipynb)
+Urban_mobility_analysis/
+ * [data](Urban_mobility_analysis/data)
+   * [cleaned_train_delays_full.csv](Urban_mobility_analysis/data/cleaned_train_delays_full.csv)
+ * [notebooks](Urban_mobility_analysis/notebooks)
+   * [urban-mobility-analysis-code.ipynb](Urban_mobility_analysis/notebooks/urban-mobility-analysis-code.ipynb)
    * [report](Urban_Mobility_Analysis/notebooks/report)
-     * [urban_mobility_analysis.ipynb](Urban_Mobility_Analysis/notebooks/report/urban_mobility_analysis.ipynb)
- * [README.md](Urban_Mobility_Analysis/README.md)
+     * [urban_mobility_analysis.ipynb](Urban_mobility_analysis/notebooks/report/urban_mobility_analysis.ipynb)
+ * [README.md](Urban_mobility_analysis/README.md)
 
 ## Data Description
 - **Dates covered:** July-September 2024
