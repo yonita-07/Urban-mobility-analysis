@@ -14,8 +14,6 @@
 
 ## Project Structure
 
-# Project tree
-
 Urban_mobility_analysis/
  * [data](Urban_mobility_analysis/data)
    * [cleaned_train_delays_full.csv](Urban_mobility_analysis/data/cleaned_train_delays_full.csv)
