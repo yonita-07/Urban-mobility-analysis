@@ -14,14 +14,16 @@
 
 ## Project Structure
 
+# Project tree
+
 Urban_Mobility_Analysis/
- * [data](./data)
-   * [cleaned_train_delays_full.csv](./data/cleaned_train_delays_full.csv)
- * [notebooks](./notebooks)
-   * [urban-mobility-analysis-code.ipynb](./notebooks/urban-mobility-analysis-code.ipynb)
-   * [report](./notebooks/report)
-     * [urban_mobility_analysis.ipynb](./notebooks/report/urban_mobility_analysis.ipynb)
- * [README.md](./README.md)
+ * [data](data)
+   * [cleaned_train_delays_full.csv](data/cleaned_train_delays_full.csv)
+ * [notebooks](notebooks)
+   * [urban-mobility-analysis-code.ipynb](notebooks/urban-mobility-analysis-code.ipynb)
+   * [report](notebooks/report)
+     * [urban_mobility_analysis.ipynb](notebooks/report/urban_mobility_analysis.ipynb)
+ * [README.md](README.md)
 
 ## Data Description
 - **Dates covered:** July-September 2024
